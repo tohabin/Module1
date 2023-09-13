@@ -13,16 +13,16 @@
       <form action="" method="POST">
 
         <!-- Bangla -->
-        <label for="Bangla">Number 1:</label>
+        <label for="Bangla">Bangla:</label>
         <input type="number" id="Bangla" name="Bangla" placeholder="Input Bangla subject marks.." required>
 
         <!-- English -->
-        <label for="English">Number 2:</label>
+        <label for="English">English:</label>
         <input type="number" id="English" name="English" placeholder="Input English subject marks.." required>
 
 
         <!-- Math -->
-        <label for="Math">Number 2:</label>
+        <label for="Math">Math:</label>
         <input type="number" id="Math" name="Math" placeholder="Input Math subject marks.." required>
 
 
