@@ -1,68 +1,8 @@
 <!DOCTYPE html>
 <html>
-<style>
-  .title {
-    text-align: center;
-  }
-
-  input[type=text],
-  input[type=number],
-  select {
-    width: 70%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-  }
-
-  label {
-    display: inline-block;
-    width: 25%;
-  }
-
-  input[type=submit] {
-    width: 100%;
-    background-color: #4CAF50;
-    color: white;
-    padding: 14px 20px;
-    margin: 8px 0;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bolder;
-  }
-
-  input[type=submit]:hover {
-    background-color: #45a049;
-  }
-
-  div {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
-  }
-
-  .container {
-    width: 500px;
-    margin: auto;
-  }
-
-  #Output {
-
-    padding: 5px 15px !important;
-
-    background-color: #ccc;
-    color: red;
-
-    font-size: 25px;
-    font-weight: bold;
-
-    text-align: right;
-
-  }
-</style>
+<head>
+  <link rel="stylesheet" href="main.css">
+</head>
 
 <body>
   <div class="container">
