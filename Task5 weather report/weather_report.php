@@ -7,7 +7,7 @@
 
 <body>
   <div class="container">
-    <h3 class="title">Odd / Even Checker</h3>
+    <h3 class="title">Weather report</h3>
 
     <div>
       <form action="" method="POST">

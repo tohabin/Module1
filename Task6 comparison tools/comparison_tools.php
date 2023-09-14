@@ -7,7 +7,7 @@
 
 <body>
   <div class="container">
-    <h3 class="title">Calculator App</h3>
+    <h3 class="title">Comparison App</h3>
 
     <div>
       <form action="" method="POST">
